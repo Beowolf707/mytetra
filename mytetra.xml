@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mytetradoc>
+<root>
+ <format version="1" subversion="2"/>
+ <content>
+  <node crypt="" id="1300000000aaaaaaaaa1" name="Компьютер">
+   <recordtable>
+    <record id="1300000000aaaaaaaaa3" name="Welcome to MyTetra!" author="" url="" tags="MyTetra, Qt" ctime="20081210124656" dir="1300000000aaaaaaaaa2" file="text.html"/>
+   </recordtable>
+   <node crypt="" id="1481106051to9yevahyn" name="Программирование">
+    <node crypt="" id="1481106103hhysc4ydb6" name="1С">
+     <recordtable>
+      <record id="1481106748lb1ix1lkf6" name="Отбор в форме выбора документа" author="" url="" tags="" ctime="20161207123228" dir="1481106748ldtboucfbp" file="text.html"/>
+     </recordtable>
+    </node>
+   </node>
+   <node crypt="" id="1481107216wyqo1hymdw" name="Графика">
+    <node crypt="" id="1481107266deu07mbx4n" name="Картинки">
+     <recordtable>
+      <record id="1481107360dfd8d5anf0" name="Деревянный шрифт" author="" url="" tags="" ctime="20161207124240" dir="1481107360rkxyew3py9" file="text.html"/>
+     </recordtable>
+    </node>
+   </node>
+  </node>
+  <node crypt="1" icon="" id="1481106946j7gllrg7pj" name="UkM1U0lNUANKkhCJeAnllIRuFFuFfLv8srYTex6GCbe96LhFTRc5HWegCRpBTceuKlPEX4HR/zNfZiOg71B7upzommrWDy99"/>
+ </content>
+</root>
