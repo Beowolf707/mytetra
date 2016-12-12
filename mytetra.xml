@@ -4,13 +4,12 @@
  <format version="1" subversion="2"/>
  <content>
   <node crypt="" id="1300000000aaaaaaaaa1" name="Компьютер">
-   <recordtable>
-    <record id="1300000000aaaaaaaaa3" name="Welcome to MyTetra!" author="" url="" tags="MyTetra, Qt" ctime="20081210124656" dir="1300000000aaaaaaaaa2" file="text.html"/>
-   </recordtable>
    <node crypt="" id="1481106051to9yevahyn" name="Программирование">
     <node crypt="" id="1481106103hhysc4ydb6" name="1С">
      <recordtable>
-      <record id="1481106748lb1ix1lkf6" name="Отбор в форме выбора документа" author="" url="" tags="" ctime="20161207123228" dir="1481106748ldtboucfbp" file="text.html"/>
+      <record id="1481106748lb1ix1lkf6" name="Отбор в форме выбора документа" author="Я" url="" tags="" ctime="20161207123228" dir="1481106748ldtboucfbp" file="text.html"/>
+      <record id="1481112072iuomm9xs1n" name="v8: Организация подбора на 8.0" author="" url="http://kb.mista.ru/article.php?id=1" tags="" ctime="20161207140112" dir="1481112072ym66rnx94b" file="text.html"/>
+      <record id="1481114328lrnsj3dylv" name="В чем разница между СсылкаДокумент и ОбъектДокумент" author="Я" url="" tags="" ctime="20161207143848" dir="148111432897v6ku6hcw" file="text.html"/>
      </recordtable>
     </node>
    </node>
